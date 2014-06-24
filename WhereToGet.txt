@@ -1,1 +1,15 @@
 Sorry for that but i didnt upload it. I wish to upload it soon :)
+Plugins:
+MCTelnet
+DisguiseCraft
+BloxFreedomMod (Fork of TotalFreedomMod)
+Essentials
+WorldEdit
+
+
+Servers name is BloxFreedom
+Owners are Alekthend, Sup3rskiqMCRed, Joenmb and herobrian35 (they are also owners of JoeFreedom), now you can change owners
+features and others in the config of the jar :)
+
+
+Download on /BloxFreedomServer/Releases
